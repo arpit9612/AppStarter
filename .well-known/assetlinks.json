@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.andbeyond.guest",
+      "sha256_cert_fingerprints": [
+        "F0:DD:0D:BA:96:0B:E6:EA:05:63:EF:A6:1F:0C:F3:4F:97:2B:6C:DA:CA:C0:D4:C7:01:43:69:2F:09:7F:B4:B1"
+      ]
+    }
+  }
+]
